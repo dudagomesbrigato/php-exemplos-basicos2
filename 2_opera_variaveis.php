@@ -1,6 +1,6 @@
 <?php
 // Recebe os dois valores pela URL usando o método GET
-// Exemplo de URL: http://localhost/php-basico-out-2024/2_opera_variaveis.php?numero1=10&numero2=5
+// Exemplo de URL: http://localhost/php-exemplos-basicos/2_opera_variaveis.php?numero1=10&numero2=5
 $numero1 = $_GET['numero1'];
 $numero2 = $_GET['numero2'];
 
